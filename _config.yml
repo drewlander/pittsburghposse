@@ -17,7 +17,7 @@ title: Official Pittsburgh Posse Website
 email: members@pittsburghposse.com
 description: > # this means to ignore newlines until "baseurl:"
   This is the official website of the Pittsburgh Posse. We are a group of 
-  people, part of a posse, from Pittsburgh
+  people, part of a posse, from Pittsburgh.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.pittsburghposse.com" # the base hostname & protocol for your site, e.g. http://example.com
 
