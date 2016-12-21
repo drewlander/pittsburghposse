@@ -4,7 +4,7 @@ title: Members
 permalink: /members/
 ---
 These are the offical Pittsburgh Posse Members
-* Gary
+* [Gary](#gary)
 * Toomie
 * Meekle
 * [Drewski](#drewski)
