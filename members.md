@@ -17,6 +17,10 @@ These are the offical Pittsburgh Posse Members
 ## Joeypuff
 ![Joeypuffkiss]({{ site.url }}/assets/joeypuffkiss.jpg)
 
+![Joeypuffkiss]({{ site.url }}/assets/joeypuff_spiffy.jpg)
+
 ## Drewski
-![Drewski]({{ site.url }}/assets/drew_before.jpg)
+![Drewski]({{ site.url }}/assets/drew_before.jpg) 
+
+![Drewski]({{ site.url }}/assets/drew_hula.jpg)
 
