@@ -7,7 +7,7 @@ These are the offical Pittsburgh Posse Members
 * Gary
 * Toomie
 * Meekle
-* Drewski
+* [Drewski](#drewski)
 * [Joeypuff](#joeypuff)
 * Alex
 * Miller
@@ -16,4 +16,7 @@ These are the offical Pittsburgh Posse Members
 
 ## Joeypuff
 ![Joeypuffkiss]({{ site.url }}/assets/joeypuffkiss.jpg)
+
+## Drewski
+![Drewski]({{ site.url }}/assets/drew_before.jpg)
 
