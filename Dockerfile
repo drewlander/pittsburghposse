@@ -1,5 +1,5 @@
 #
-FROM fedora:latest
+FROM fedora
 
 RUN /bin/dnf install -yq deltarpm && \ 
  dnf install -y git \
@@ -28,13 +28,12 @@ RUN /usr/bin/git clone  https://github.com/drewlander/pittsburghposse.git   /usr
 RUN cd  /usr/share/nginx/pittsburghposse  && \
     bundle install && \
     jekyll build
-
-
-WORKDIR /etc/nginx
+RUN echo "daemon off;" >> /etc/nginx/nginx.conf
+RUN mv  /usr/share/nginx/pittsburghposse/_site/* /usr/share/nginx/html
 EXPOSE 80
 EXPOSE 443
 # Define default command.
-CMD ["nginx"]
+CMD ["/usr/sbin/nginx"]
 
 # Expose ports.
 
