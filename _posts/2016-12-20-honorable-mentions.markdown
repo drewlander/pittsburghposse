@@ -7,4 +7,4 @@ categories: jekyll update
 Every now and then, there are people who are special to the Posse. 
 
 * Hernandez
-![Hernanzez]({{ site.url }}/assets/hernandez.gif)
+![Hernanzez]({{ root.url }}/assets/hernandez.gif)
